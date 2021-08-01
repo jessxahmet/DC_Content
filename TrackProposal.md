@@ -19,9 +19,9 @@ Description: TBC
     3. Explain the difference between facts and dimensions 
 2. Data Modelling for Power BI 
 Description: TBC     
-    1. TBC
-    2. TBC
-    3. TBC
+    1. Explain the building blocks of dimensional modelling - facts, dimensions and star schemas 
+    2. Describe The Kimball Model 
+    3. Explain bi-directional cross-filters 
 3. DAX Concepts  
 Description: TBC
     1. Experiment with creating dynamic KPIs to use within a report 
